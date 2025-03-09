@@ -27,7 +27,7 @@ body{
 }
 .f-info-links :hover{
     text-decoration:underline !important;
-    background-color : red;
+    color : red;
 }
 .f-info {
     text-align: center;
@@ -43,6 +43,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top : 1rem;
 }
 
 .f-info-socials i {
