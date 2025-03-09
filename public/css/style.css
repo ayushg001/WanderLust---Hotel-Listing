@@ -25,7 +25,9 @@ body{
     color: #222222 !important;
 }
 .f-info-links :hover{
+    margin-right : 1rem;
     text-decoration:underline !important;
+    background-color : red;
 }
 .f-info {
     text-align: center;
