@@ -69,7 +69,7 @@ module.exports.updateListing =  async (req,res) => {
     //     limit: 1
     //   })
     //     .send();
-    // let { id } = req.params;  
+    let { id } = req.params;  
     
 //if don't return , the operations below will also run
 
